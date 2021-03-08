@@ -12,8 +12,8 @@
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 // Replace with your network credentials
-const char* ssid = "POCO";
-const char* password = "divya1028";
+const char* ssid = "STUB";
+const char* password = "STUB9211";
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
